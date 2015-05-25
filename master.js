@@ -31,5 +31,5 @@ master.forEach(function(group){
   });
 });
 
-var file_path = process.cwd() + "/site/js/thesaurus_data.json";
+var file_path = process.cwd() + "/site/data/thesaurus_data.json";
 fs.writeFileSync(file_path, JSON.stringify(output_object));
