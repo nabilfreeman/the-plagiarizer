@@ -1,0 +1,14 @@
+{
+  "name": "The-Plagiarizer",
+  "version": "0.0.1",
+  "scripts": {
+    "deploy": "grunt s3"
+  },
+  "author": "freeman",
+  "devDependencies": {
+    "async": "^1.0.0",
+    "diff": "^1.4.0",
+    "node-summary": "^1.1.0",
+    "thesaurus": "0.0.0"
+  }
+}
