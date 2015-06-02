@@ -1,4 +1,4 @@
-The Plagiarizer
+# The Plagiarizer
 
 ![i love you](https://github.com/nabilfreeman/the-plagiarizer/raw/master/site/img/screenshot.jpg)
 
